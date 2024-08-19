@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhav Dhatrak</h1>
 <h3 align="center">Hi, I'm Madhav, a Full Stack Developer and second-year Computer Science student. Currently, I'm diving into DevOps to streamline deployment processes</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavdhatrak&label=Profile%20views&color=0e75b6&style=flat" alt="madhavdhatrak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavdhatrak" alt="madhavdhatrak" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/madhavstwt" target="blank"><img src="https://img.shields.io/twitter/follow/madhavstwt?logo=twitter&style=for-the-badge" alt="madhavstwt" /></a> </p>
+<img align="right" alt="Coading" width="400" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2859.jpg">
 
 - 🔭 I’m currently working on [BlogX](https://github.com/MadhavDhatrak/BlogX.git)
 
