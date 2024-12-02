@@ -62,16 +62,12 @@
 
 <hr/>
 
-
-<hr/>
-
 [![An image of @madhavdhatrak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhavdhatrak)](https://holopin.io/@madhavdhatrak)
 
 <br/><br/>
 
 <hr/>
 
-<br/>
 <br/>
 
 <h1 align="center">
