@@ -4,17 +4,38 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Madhav+Dhatrak!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Software Developer & DevOps Engineer from India </h3>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **HopesAlive**
- 
- 🌱 I’m currently learning **DevOps**
+### About Me
 
-💬 Ask me about **Node.js, React, Docker... or anything [here](https://github.com/MadhavDhatrak/MadhavDhatrak/issues)**
+- 1. **Google Summer of Code 2025 Contributor**  
+  Selected under the JSON Schema organization, working on a Java Foreign Function & Memory (FFM) wrapper for sourcemeta/blaze a high-speed JSON schema validator in C++
+
+- 2. **Beta-Microsoft Learn Student Ambassador**  
+  Hosted workshops on Git, GitHub, APIs, and developer tools, enabling students to confidently contribute to open source and real-world projects.
+
+- 3. **4x Hackathon Winner**  
+  - 🥇 *Hackonomics 2024*: Best Application Award — gamified finance education.  
+  - 🌍 *Hack for Humanity 2025*: Ranked **12th globally**.  
+  - 🛠️ *Dev Challenge*: **Best in Tech Award and 1st Winner**  
+  - 🏫 *Institute-Level Hackathon*: Winner of internal college hackathon
+
+- 4. **Founder & Lead of OpenGeeks community**  
+  Building a student-focused community from the ground up to help peers in Tier-3 colleges explore Git, DevOps, Open Source, Web Development, and Hackathons.  
+  > 🧩 “We simplify tech, break language barriers, and help students grow together.”
+
+
+- 5. **DSA Problem Solver**  
+  Solved over **120+ problems** across LeetCode and GeeksforGeeks. Continuously building problem-solving skills through daily practice.
+
+- 🌐 **Community & Collaboration-Driven**  
+  I actively contribute to open source projects and love mentoring early learners in DevOps, GitHub, and backend development.
+
+
+
+
 
 
  </div>
@@ -38,15 +59,7 @@
 </div>
 
 <br/>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MadhavDhatrak/MadhavDhatrak/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
