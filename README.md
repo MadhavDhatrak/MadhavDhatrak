@@ -24,7 +24,7 @@
 ---
 - 4. **Founder & Lead of OpenGeeks community**  
   Building a student-focused community from the ground up to help peers in Tier-3 colleges explore Git, DevOps, Open Source, Web Development, and Hackathons.  
-  > 🧩 “We simplify tech, break language barriers, and help students grow together.”
+  >  “We simplify tech, break language barriers, and help students grow together.”
 
 ---
 - 5. **DSA Problem Solver**  
