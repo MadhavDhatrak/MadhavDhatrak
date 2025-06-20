@@ -28,7 +28,7 @@
 
 ---
 - 5. **DSA Problem Solver**  
-  Solved over **120+ problems** across LeetCode and GeeksforGeeks. Continuously building problem-solving skills through daily practice.
+  Solved over **130+ problems** across LeetCode and GeeksforGeeks. Continuously building problem-solving skills through daily practice.
 ---
 - 🌐 **Community & Collaboration-Driven**  
   I actively contribute to open source projects and love mentoring early learners in DevOps, GitHub, and backend development.
