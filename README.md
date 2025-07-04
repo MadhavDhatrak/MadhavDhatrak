@@ -8,71 +8,88 @@
 
 <br/>
 
-### About Me
+## 🚀 About Me
 
-- 1. **Google Summer of Code 2025 Contributor**  
-  Selected under the JSON Schema organization, working on a Java Foreign Function & Memory (FFM) wrapper for sourcemeta/blaze a high-speed JSON schema validator in C++
+I'm a passionate **Software Developer & DevOps Engineer** who believes in the power of open source and community-driven learning. Currently working on cutting-edge projects while building a supportive tech community for students.
+
+### 🎯 What I Do
+
+🔥 **Google Summer of Code 2025 Contributor**  
+Selected under the JSON Schema organization, developing a Java Foreign Function & Memory (FFM) wrapper for sourcemeta/blaze - a high-performance JSON schema validator in C++
 ---
-- 2. **Beta-Microsoft Learn Student Ambassador**  
-  Hosted workshops on Git, GitHub, APIs, and developer tools, enabling students to confidently contribute to open source and real-world projects.
+👨‍🏫 **Beta Microsoft Learn Student Ambassador**  
+Hosting workshops on Git, GitHub, APIs, and developer tools, empowering students to contribute to open source projects confidently
 ---
-- 3. **4x Hackathon Winner**  
-  - 🥇 *Hackonomics 2024*: Best Application Award — gamified finance education.  
-  - 🌍 *Hack for Humanity 2025*: Ranked **12th globally**.  
-  - 🛠️ *Dev Challenge*: **Best in Tech Award and 1st Winner**  
-  - 🏫 *Institute-Level Hackathon*: Winner of internal college hackathon
+🏆 **4x Hackathon Champion**  
+- 🥇 **Hackonomics 2024**: Best Application Award for gamified finance education  
+- 🌍 **Hack for Humanity 2025**: Ranked **12th globally**  
+- 🛠️ **Dev Challenge**: Best in Tech Award and 1st Place Winner  
+- 🏫 **Institute Hackathon**: Winner at college level
 ---
-- 4. **Founder & Lead of OpenGeeks community**  
-  Building a student-focused community from the ground up to help peers in Tier-3 colleges explore Git, DevOps, Open Source, Web Development, and Hackathons.  
+🌟 **Community Builder & Mentor**  
+Founder of **OpenGeeks Community** - helping Tier-3 college students master Git, DevOps, Open Source, and Web Development  
   >  “We simplify tech, break language barriers, and help students grow together.”
 
----
-- 5. **DSA Problem Solver**  
-  Solved over **135+ problems** across LeetCode and GeeksforGeeks. Continuously building problem-solving skills through daily practice.
----
-- 🌐 **Community & Collaboration-Driven**  
-  I actively contribute to open source projects and love mentoring early learners in DevOps, GitHub, and backend development.
+💻 **Problem Solving Enthusiast**  
+Solved **135+ DSA problems** across LeetCode and GeeksforGeeks with consistent daily practice
+
+🤝 **Open Source Advocate**  
+Actively contributing to open source projects and mentoring **20+ students** in DevOps, GitHub, and backend development
 
 ---
-### Connect on Socials!
 
-- **LinkedIn**: [Madhav Dhatrak](https://linkedin.com/in/madhav-dhatrak-b52a601b1)
-- **Twitter/X**: [@Madhavstwt](https://x.com/Madhavstwt)
-- **Email**: [madhavdhatrak02@gmail.com](mailto:madhavdhatrak02@gmail.com)
+## 📫 Let's Connect!
 
-<br/>
-
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,golang,python,html,css,bootstrap,react,github,figma,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,mysql,postgresql,linux,jenkins,docker,kubernetes," /><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhav-dhatrak-b52a601b1)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Madhavstwt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavdhatrak02@gmail.com)
+
 </div>
 
-<br/>
+---
+ 
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,golang,python,javascript,typescript" />
+
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,bootstrap,tailwind" />
+
+### 🗄️ Databases & Backend
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+
+### ⚙️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,git,github,figma" />
+
+</div>
+
+---
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=madhavdhatrak&theme=react&border_radius=10."/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=madhavdhatrak&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=madhavdhatrak&theme=react&border_radius=10" alt="GitHub Streak"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=madhavdhatrak&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br/>
- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavdhatrak&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavdhatrak&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
-<br/><br/>
-
-<hr/>
+---
 
 ## 🏆 Achievements & Certifications
 
-[![An image of @madhavdhatrak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhavdhatrak)](https://holopin.io/@madhavdhatrak)
+<div align="center">
 
-<br/>
+[![Holopin Badges](https://holopin.me/madhavdhatrak)](https://holopin.io/@madhavdhatrak)
+
+</div>
 
 ---
 
@@ -106,18 +123,16 @@ Best Application Award winning project that gamifies financial literacy for stud
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Up To
 
-- 🔥 **Working on**: JSON Schema FFM wrapper for Google Summer of Code 2025
-- 📚 **Learning**: Advanced Java FFM APIs and C++ integration patterns  
-- 🌱 **Growing**: OpenGeeks community from 0 to 500+ active members
-- 💡 **Exploring**: Cloud-native architectures and Kubernetes deployments
-- 🎓 **Mentoring**: 20+ students in DevOps and Open Source contributions
+### 🔥 Current Focus
+- **Working on**: JSON Schema FFM wrapper for Google Summer of Code 2025
+- **Learning**: Advanced Java FFM APIs and C++ integration patterns  
+- **Growing**: OpenGeeks community from 0 to 500+ active members
+- **Exploring**: Cloud-native architectures and Kubernetes deployments
+- **Mentoring**: 20+ students in DevOps and Open Source contributions
 
----
-
-## 📈 Recent Activity
-
+### 🚀 Recent Highlights
 - ✅ **Selected for GSoC 2025** under JSON Schema organization
 - 🎉 **Achieved 12th rank globally** in Hack for Humanity 2025  
 - 🏆 **Won Best in Tech Award** at Dev Challenge hackathon
