@@ -70,8 +70,6 @@ Actively contributing to open source projects and mentoring **20+ students** in 
 
 ---
 
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
