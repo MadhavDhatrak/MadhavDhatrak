@@ -8,30 +8,56 @@
 
 <br/>
 
-### About Me
+## About Me
 
-- 1. *Google Summer of Code 2025 Contributor*  
-  Selected under the JSON Schema organization, working on a Java Foreign Function & Memory (FFM) wrapper for sourcemeta/blaze a high-speed JSON schema validator in C++
+### *Google Summer of Code 2025 – Contributor*  
+**Organization:** [**JSON Schema**](https://json-schema.org/)
+
+- Selected for **Google Summer of Code 2025** under the JSON Schema organization.
+- Working on the project: [**Java Wrapper for sourcemeta/blaze**](https://github.com/MadhavDhatrak/BlazeWrapper.git) integrating with [**sourcemeta/blaze**](https://github.com/sourcemeta/blaze.git) a high-performance JSON Schema validator written in C++.
+- Tech Stack:
+  - Java Foreign Function & Memory (FFM) API
+  - C++
+  - CMake
+  - GitHub Actions (CI/CD)
+- Objective: To enable Java developers to validate JSON schemas at native speed using Blaze directly from the JVM, without relying on JNI.
+
 ---
-- 2. *Beta-Microsoft Learn Student Ambassador*  
-  Hosted workshops on Git, GitHub, APIs, and developer tools, enabling students to confidently contribute to open source and real-world projects.
+
+### 🎓 *LiFT Scholar – Linux Foundation Training (2025)*
+
+- Awarded the [**Shubhra Kar LiFT Scholarship**](https://www.linuxfoundation.org/about/lift-scholarships) a global initiative by the Linux Foundation providing access to open source training and certification exams at no cost 
+- Currently preparing for the **CKA (Certified Kubernetes Administrator)** certification using scholarship-funded resources exam
+- Enrolled in DevOps & SRE e‑learning and started working through hands-on modules in CI/CD, observability, and infrastructure as code.
+
+
 ---
-- 3. *4x Hackathon Winner*  
+### 🌟 *Beta – Microsoft Learn Student Ambassador*
+- Hosted beginner-friendly workshops on Git, GitHub, APIs, and essential developer tools.
+- Built a learning community to support peers in their tech journey through sessions and mentorship.
+- Promoted hands-on learning by organizing interactive demos and live coding activities.
+
+---
+### *4x Hackathon Winner*  
   - 🥇 Hackonomics 2024: Best Application Award — gamified finance education.  
   - 🌍 Hack for Humanity 2025: Ranked *12th globally*.  
   - 🛠 Dev Challenge: *Best in Tech Award and 1st Winner*  
   - 🏫 Institute-Level Hackathon: Winner of internal college hackathon
 ---
-- 4. *Founder & Lead of OpenGeeks community*  
-  Building a student-focused community from the ground up to help peers in Tier-3 colleges explore Git, DevOps, Open Source, Web Development, and Hackathons.  
-  >  “We simplify tech, break language barriers, and help students grow together.”
+### 🚀 *Founder & Lead – OpenGeeks Community*
+
+- Established a vibrant [student-centric community](https://www.linkedin.com/company/opengreek-community/) from the ground up to support peers exploring Git, DevOps, Open Source, Web Development, and Hackathons.
+- Fostered collaborative learning by organizing workshops, mentorship sessions, and group projects.
+- Helped students gain visibility by guiding them to participate in open source events, hackathons, and tech communities.
+
+  > “We simplify tech, break language barriers, and help students grow together.”
 
 ---
-- 5. *DSA Problem Solver*  
-  Solved over *135+ problems* across LeetCode and GeeksforGeeks. Continuously building problem-solving skills through daily practice.
----
-- 🌐 *Community & Collaboration-Driven*  
-  I actively contribute to open source projects and love mentoring early learners in DevOps, GitHub, and backend development.
+### *Community & Collaboration-Driven*
+
+- Actively contribute to open source projects, focusing on practical backend solutions and DevOps tooling.
+- Mentor early learners in Git, GitHub, backend development, and cloud fundamentals through workshops and 1:1 guidance.
+- Collaborate with global communities to promote inclusive tech learning and support first-time contributors.
 
 ---
 ### Connect on Socials!
