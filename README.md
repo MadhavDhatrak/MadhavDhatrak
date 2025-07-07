@@ -62,9 +62,9 @@
 ---
 ### Connect on Socials!
 
-- *LinkedIn*: [Madhav Dhatrak](https://linkedin.com/in/madhav-dhatrak-b52a601b1)
-- *Twitter/X*: [@Madhavstwt](https://x.com/Madhavstwt)
-- *Email*: [madhavdhatrak02@gmail.com](mailto:madhavdhatrak02@gmail.com)
+- *LinkedIn*: [**Madhav Dhatrak**](https://linkedin.com/in/madhav-dhatrak-b52a601b1)
+- *Twitter/X*: [**@Madhavstwt**](https://x.com/Madhavstwt)
+- *Email*: [**madhavdhatrak02@gmail.com**](mailto:madhavdhatrak02@gmail.com)
 
 
 
