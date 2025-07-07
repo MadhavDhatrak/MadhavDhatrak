@@ -44,9 +44,9 @@
   - 🛠 Dev Challenge: *Best in Tech Award and 1st Winner*  
   - 🏫 Institute-Level Hackathon: Winner of internal college hackathon
 ---
-### 🚀 *Founder & Lead – OpenGeeks Community*
+###  *Founder & Lead – OpenGeeks Community*
 
-- Established a vibrant [student-centric community](https://www.linkedin.com/company/opengreek-community/) from the ground up to support peers exploring Git, DevOps, Open Source, Web Development, and Hackathons.
+- Established a vibrant **student-centric community** from the ground up to support peers exploring Git, DevOps, Open Source, Web Development, and Hackathons.
 - Fostered collaborative learning by organizing workshops, mentorship sessions, and group projects.
 - Helped students gain visibility by guiding them to participate in open source events, hackathons, and tech communities.
 
