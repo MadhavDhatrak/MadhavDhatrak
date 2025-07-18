@@ -110,4 +110,18 @@
 
 <hr/>
 
+## 💖 Support My Work
+
+If you find my projects helpful or enjoy my content, consider:
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/MadhavDhatrak)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/MadhavDhatrak)
+
+⭐ **Star my repositories** • 🔄 **Share my projects** • 🤝 **Connect with me**
+
+</div>
+
+
 <br/>
