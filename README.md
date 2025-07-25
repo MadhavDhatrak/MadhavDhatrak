@@ -7,6 +7,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Madhav+Dhatrak!;" />
 </h1>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MadhavDhatrak&theme=dracula)
+
+
+
 <h3 align="center">A passionate Software Developer & DevOps Engineer from India </h3>
 
 <br/>
