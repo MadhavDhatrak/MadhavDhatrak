@@ -108,12 +108,6 @@
 
 <hr/>
 
-[![An image of @madhavdhatrak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhavdhatrak)](https://holopin.io/@madhavdhatrak)
-
-<br/><br/>
-
-<hr/>
-
 ## 💖 Support My Work
 
 If you find my projects helpful or enjoy my content, consider:
