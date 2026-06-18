@@ -41,3 +41,11 @@ I have won 4 hackathons.
 
 **Connect with me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/madhav-dhatrak-b52a601b1) [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x)](https://x.com/Madhavstwt) [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:madhavdhatrak02@gmail.com) [![Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/MadhavDhatrak)
+
+--- 
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thank+you+for+visiting+my+profile!;Feel+free+to+reach+out+anytime!" />
+
+</div>
