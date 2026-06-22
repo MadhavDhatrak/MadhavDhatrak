@@ -2,40 +2,21 @@
 
 
 
-Hey, I am Madhav Dhatrak a DevOps Engineer and Software Developer from India.
+Hey I am Madhav Dhatrak a DevOps Engineer and Software Developer from India.
 I spent time at [AccuKnox](https://accuknox.com) as a DevOps intern, where I worked on 
 cloud-native security and container tooling. I got selected for 
 [GSoC 2025](https://github.com/MadhavDhatrak/BlazeWrapper) with [JSON Schema](https://json-schema.org), 
 building a Java wrapper for a high-performance C++ validator. Along the way I picked up the 
 [LiFT Scholarship](https://www.linuxfoundation.org/about/lift-scholarships) from the 
-Linux Foundation. I also serve as a [Beta Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors) 
+Linux Foundation and passed the [CKA certification](https://www.credly.com/badges/a59d7b14-7b8f-49ce-8387-e508ffd74a50/public_url). 
+I also serve as a [Beta Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors) 
 where I run workshops on Git, GitHub, and APIs for students just starting out. That same 
 drive to give back is why I founded the [OpenGeeks Community](https://github.com/OpenGeeks-Community), 
 a community I built from scratch to help students find their footing in open source, DevOps, 
 and hackathons. We simplify tech, break language barriers, and grow together.
 
-I have won 4 hackathons.
+I have won 4 hackathons including Hackonomics 2024, Hack for Humanity 2025, and Dev Challenge.
 
-<details>
-<summary>See all wins</summary>
-<br>
-
-| Event | Result |
-|---|---|
-| Hackonomics 2024 | Best Application Award |
-| Hack for Humanity 2025 | Ranked 12th globally |
-| Dev Challenge | Best in Tech, 1st place |
-| Institute Hackathon | College-level winner |
-
-</details>
-
----
-
-*I mainly work with*
-`Java` `Go` `Node.js` `React` `Docker` `Kubernetes` `Jenkins` `PostgreSQL` `Linux` `Helm` `GitHub Actions` `Terraform`
-
-*Cloud platforms I have worked on*
-`AWS` `GCP` `DigitalOcean` `Hetzner` `Azure` 
 
 ---
 
