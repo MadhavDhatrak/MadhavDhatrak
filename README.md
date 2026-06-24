@@ -13,9 +13,8 @@ I also serve as a [Beta Microsoft Learn Student Ambassador](https://mvp.microsof
 where I run workshops on Git, GitHub, and APIs for students just starting out. That same 
 drive to give back is why I founded the [OpenGeeks Community](https://github.com/OpenGeeks-Community), 
 a community I built from scratch to help students find their footing in open source, DevOps, 
-and hackathons. We simplify tech, break language barriers, and grow together.
+and hackathons. We simplify tech, break language barriers, and grow together. I have won 4 hackathons including Hackonomics 2024, Hack for Humanity 2025, and Dev Challenge.
 
-I have won 4 hackathons including Hackonomics 2024, Hack for Humanity 2025, and Dev Challenge.
 
 
 ---
